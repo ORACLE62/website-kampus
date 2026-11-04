@@ -3,3 +3,7 @@ seminar_nasional_teknologi.jpg
 pameran_proyek_iot_esp32.jpg
 
 kegiatan_donor_darah_2026.jpg
+
+pelatihan_desain_ui_ux.jpg
+
+turnamen_esports_kampus_2026.jpg
